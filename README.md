@@ -2,6 +2,8 @@
 
 An angular material global progress loader that uses http interceptor and gives success/error feedback on non GET actions.
 
+![idm-mat-loader](./idm-mat-loader.gif)
+
 ## Installation
 
 This package depends on `@angular/material` so first:
