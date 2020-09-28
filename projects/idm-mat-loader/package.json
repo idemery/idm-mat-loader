@@ -1,6 +1,6 @@
 {
   "name": "idm-mat-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An angular material global progress loader that uses http interceptor and gives success/error feedback on non GET actions.",
   "keywords": ["Angular", "material", "mat", "progress", "loader", "interceptor"],
   "license": "MIT",
