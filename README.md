@@ -9,9 +9,9 @@ This package depends on `@angular/material` so first:
 npm install --save @angular/material @angular/cdk
 ```
 
-To install idm-mat-loader run:
+To install `idm-mat-loader` run:
 ```
-idm-mat-loader
+npm i idm-mat-loader
 ```
 
 ## Getting started
