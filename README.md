@@ -1,6 +1,7 @@
 # idm-mat-loader
 
 An angular material global progress loader that uses http interceptor and gives success/error feedback on non GET actions.
+This component uses the angular material 3 colors: primary, accent, and warn according to your material theme colors.
 
 ![idm-mat-loader](./idm-mat-loader.gif)
 
