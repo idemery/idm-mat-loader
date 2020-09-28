@@ -12,6 +12,12 @@
     },
     {
       "path": "./tsconfig.spec.json"
+    },
+    {
+      "path": "./projects/idm-mat-loader/tsconfig.lib.json"
+    },
+    {
+      "path": "./projects/idm-mat-loader/tsconfig.spec.json"
     }
 ]
 }
